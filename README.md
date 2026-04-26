@@ -7,6 +7,6 @@ I'm a second-year Mathematical Physics student at the <a href="https://cs.uwater
 I'm interested in understanding how systems work at a fundamental level — from physical laws to low-level computation. I explore this through embedded systems, mathematical modeling, and machine learning, often building implementations from scratch rather than relying on abstractions.
     <br /><br />
 
-<code>C</code> <code>C++</code> <code>Python</code> <code>NumPy</code> <code>PyTorch</code> <code>Linux</code> <code>Git</code>
+<code>C</code> <code>C++</code> <code>Python</code><code>PyTorch</code> <code>TensorFLow</code> 
     <br /><br />
 </samp>
