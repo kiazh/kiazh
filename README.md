@@ -9,4 +9,6 @@ Most of my interests revolve around understanding systems at a fundamental level
 
 If this sounds interesting to you, feel free to contact me @kia.zheidari@gmail.com
     <br /><br /> 
+
+![](https://komarev.com)
 </samp>
